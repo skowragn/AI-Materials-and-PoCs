@@ -20,14 +20,16 @@ This repository is dedicated to:
 | --- |---|---|---|
 | O'Reilly |**AI Codecon: Coding for the Agentic World** | |English|
 |	Microsoft Azure Virtual Training Day (2 days)| **AI Fundamentals** | |English|
-| Developer of Tomorrow | **Machine Learning - Anatomy of LLMs and the Transformer Architecture** | https://www.youtube.com/watch?v=ANWLBWPdABo| Polish|
+| Developer of Tomorrow | **Machine Learning - Anatomy of LLMs and the Transformer Architecture** | [![Anatomy of LLMs and the Transformer Architecture](https://img.youtube.com/vi/_ANWLBWPdABo/0.jpg)]([https://www.youtube.com/watch?v=_5tFXJQIzi4](https://www.youtube.com/watch?v=ANWLBWPdABo))  | Polish|
 | Microsoft Azure Virtual Training Day (2 days)  | **Develop Generative AI Apps with Azure AI Foundry**  | |English|
 | Microsoft AI Power Days (3 days) | **Apps and Agents in the era of the Frontier Firm**; **Securing Controls for AI Workloads and Applications**; **Workshop: Build Your AI Agent**  | |English|
 |	MS Build 2025-2026 | **Retrieval-Augmented Generation (RAG) with .NET 8: A Full Local Resource Guide** Bruno Capuano | https://github.com/elbruno/Ollama-CSharp-Playground | English|
 
 ## **Meetups**
-| Company | Topic | Link | Language |
+| Company | Topic | Link | Language | 
 | --- |---|---|---|
-| Get Digital |**AI at the Service of Developers** | |English|
-| Future Processes LIVE |**An AI Agent in Your Pocket** | |Polish|
-| AI_devs LIVE  |**Context Engineering in Multi Agent Systems** | https://www.youtube.com/watch?v=3LbZP0sYmPw | Polish|
+| Sii - Get Digital 2025 |**AI at the Service of Developers**| [![**Tomasz Durcin's lecture**](https://img.youtube.com/vi/SlaRbOlAFc0/0.jpg)]([https://www.youtube.com/playlist?list=PLQXpRIbR-9ftn3u7hFUjKlZfIzEd5PX3j#msdynmkt_trackingcontext=971a9c7b-c3f1-415f-b445-dec23d8d0300](https://www.youtube.com/watch?v=SlaRbOlAFc0&list=PLQXpRIbR-9ftn3u7hFUjKlZfIzEd5PX3j&index=2&t=1199s))| Polish |
+| Sii - Get Digital 2025 |**AI at the Service of Developers**| [![**Mateusza Chrobok's lecture**](https://img.youtube.com/vi/PgQ2j3S9QQE/0.jpg)](https://www.youtube.com/watch?v=PgQ2j3S9QQE&list=PLQXpRIbR-9ftn3u7hFUjKlZfIzEd5PX3j&index=3))| Polish |
+| Sii - Get Digital 2025 |**AI at the Service of Developers**|[![**Expert's panel**](https://img.youtube.com/vi/hCQ5xvf_y1A/0.jpg)](https://www.youtube.com/watch?v=hCQ5xvf_y1A&list=PLQXpRIbR-9ftn3u7hFUjKlZfIzEd5PX3j&index=4)| |Polish|
+| Future Processes LIVE |**An AI Agent in Your Pocket** | Polish|
+| AI_devs LIVE  |**Context Engineering in Multi Agent Systems** | [![AI_Dev Context Engineering in multi agent systems](https://img.youtube.com/vi/_3LbZP0sYmPw/0.jpg)](https://www.youtube.com/watch?v=_3LbZP0sYmPw) | Polish|
