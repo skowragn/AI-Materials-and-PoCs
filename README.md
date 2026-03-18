@@ -31,6 +31,6 @@ This repository is dedicated to:
 | Sii | Get Digital 2025 | **AI at the Service of Developers**| |
 |  |**Effective Use of LLMs by Developers**| [![**Tomasz Durcin's lecture**](https://img.youtube.com/vi/SlaRbOlAFc0/0.jpg)]([https://www.youtube.com/playlist?list=PLQXpRIbR-9ftn3u7hFUjKlZfIzEd5PX3j#msdynmkt_trackingcontext=971a9c7b-c3f1-415f-b445-dec23d8d0300](https://www.youtube.com/watch?v=SlaRbOlAFc0&list=PLQXpRIbR-9ftn3u7hFUjKlZfIzEd5PX3j&index=2&t=1199s)) | Polish |
 |  |**How to Hack AI and Get Answers Despite the Model’s Refusal**| [![**Mateusza Chrobok's lecture**](https://img.youtube.com/vi/PgQ2j3S9QQE/0.jpg)](https://www.youtube.com/watch?v=PgQ2j3S9QQE&list=PLQXpRIbR-9ftn3u7hFUjKlZfIzEd5PX3j&index=3)| Polish |
-| |**Expert's panel**|[![**Expert's panel**](https://img.youtube.com/vi/hCQ5xvf_y1A/0.jpg)](https://www.youtube.com/watch?v=hCQ5xvf_y1A&list=PLQXpRIbR-9ftn3u7hFUjKlZfIzEd5PX3j&index=4)| |Polish|
-| Future Processes LIVE |**An AI Agent in Your Pocket** | | Polish|
+| |**Expert's panel** | [![**Expert's panel**](https://img.youtube.com/vi/hCQ5xvf_y1A/0.jpg)](https://www.youtube.com/watch?v=hCQ5xvf_y1A&list=PLQXpRIbR-9ftn3u7hFUjKlZfIzEd5PX3j&index=4)   | Polish |
+|  Future Processes LIVE | **An AI Agent in Your Pocket** | [![**An AI Agent in Your Pocket**](https://img.youtube.com/vi/k6juODleQCU/0.jpg)](https://www.youtube.com/watch?v=k6juODleQCU))  | Polish|
 | AI_devs LIVE  |**Context Engineering in Multi Agent Systems** | [![AI_Dev Context Engineering in multi agent systems](https://img.youtube.com/vi/3LbZP0sYmPw/0.jpg)](https://www.youtube.com/watch?v=_3LbZP0sYmPw) | Polish|
