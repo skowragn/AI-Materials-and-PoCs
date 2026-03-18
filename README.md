@@ -18,11 +18,20 @@ This repository is dedicated to:
 ## **Trainings**
 | Company | Topic | Link| Language |
 | --- |---|---|---|
-| O'Reilly |**AI Codecon: Coding for the Agentic World** | |English|
-|	Microsoft Azure Virtual Training Day (2 days)| **AI Fundamentals** | |English|
+| O'Reilly |**AI Codecon: Coding for the Agentic World** | https://learning.oreilly.com/live-events/ai-codecon-coding-for-the-agentic-world/0642572207748/0642572207731/#liveEventSchedule |English|
+| || •	**Agentic interfaces:** Moving beyond chat UX to sophisticated agent interactions ||
+| || •	**Tool-to-tool workflows:** How agents chain across environments to complete complex tasks ||
+| || •	**Background coding agents:** Asynchronous, autonomous code generation in production ||
+| || •	**MCP and agent protocols:** The infrastructure enabling the agentic web ||
+|	Microsoft Azure Virtual Training Day (2 days)| **AI Fundamentals** | https://learn.microsoft.com/pl-pl/collections/x31dsgg0qd4or5 | English|
 | Developer of Tomorrow | **Machine Learning - Anatomy of LLMs and the Transformer Architecture** | [![**Anatomy of LLMs and the Transformer Architecture**](https://img.youtube.com/vi/ANWLBWPdABo/0.jpg)](https://www.youtube.com/watch?v=_5tFXJQIzi4](https://www.youtube.com/watch?v=ANWLBWPdABo))  | Polish|
-| Microsoft Azure Virtual Training Day (2 days)  | **Develop Generative AI Apps with Azure AI Foundry**  | |English|
-| Microsoft AI Power Days (3 days) | **Apps and Agents in the era of the Frontier Firm**; **Securing Controls for AI Workloads and Applications**; **Workshop: Build Your AI Agent**  | |English|
+| Microsoft Azure Virtual Training Day (2 days)  | **Develop Generative AI Apps with Azure AI Foundry**  | https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/ |English|
+| Microsoft AI Power Days (3 days) | aka.ms/AIPowerDays | https://www.microsoft.com/en-us/events/category/microsoft-virtual-training-days?filters=primary-language%3Aenglish&scenario=mvtd |English|
+| |**Apps and Agents in the era of the Frontier Firm** |  https://ai.azure.com |English|
+| | **Securing Controls for AI Workloads and Applications** |   |English|
+| | **Workshop: Build Your AI Agent** | https://github.com/microsoft/agent-framework |English|
+| |  | https://learn.microsoft.com/en-us/agent-framework/overview/?wt.mc_id=AID3082221_QSG_668640&pivots=programming-language-csharp |English|
+| | | https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/  |English|
 |	MS Build 2025-2026 | **Retrieval-Augmented Generation (RAG) with .NET 8: A Full Local Resource Guide** Bruno Capuano | https://github.com/elbruno/Ollama-CSharp-Playground | English|
 
 ## **Meetups**
