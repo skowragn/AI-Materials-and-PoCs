@@ -1,2 +1,33 @@
 # AI-Materials-and-PoCs
 All materials from my AI trainings, meetups, and PoC work
+
+This repository is dedicated to:
+
+- Designing proof‑of‑concept solutions that integrate advanced AI capabilities into cloud‑native and event‑driven architectures.
+
+- Exploring Microsoft Copilot and evaluating its impact on enterprise software development, developer workflows, and architectural governance.
+
+- Completing AI‑focused learning paths on Microsoft Learn to strengthen both theoretical understanding and practical skills.
+
+- Investigating a broad range of Generative AI technologies — including coding assistants (Copilot, Claude Code), multi‑agent frameworks, large language models, MCP servers, and Azure AI platforms such as Azure AI Services, Azure AI Foundry, and Azure OpenAI — to design prototypes and demonstration environments.
+
+- Building AI‑driven solutions using Semantic Kernel, including direct LLM integration, autonomous agent orchestration, and Retrieval‑Augmented Generation (RAG) pipelines.
+
+- Developing and experimenting with custom MCP server implementations in .NET, enabling extensible agent‑based architectures and advanced automation scenarios.
+
+## **Trainings**
+| Company | Topic | Link| Language |
+| --- |---|---|---|
+| O'Reilly |**AI Codecon: Coding for the Agentic World** | |English|
+|	Microsoft Azure Virtual Training Day (2 days)| **AI Fundamentals** | |English|
+| Developer of Tomorrow | **Machine Learning - Anatomy of LLMs and the Transformer Architecture** | https://www.youtube.com/watch?v=ANWLBWPdABo| Polish|
+| Microsoft Azure Virtual Training Day (2 days)  | **Develop Generative AI Apps with Azure AI Foundry**  | |English|
+| Microsoft AI Power Days (3 days) | **Apps and Agents in the era of the Frontier Firm**; **Securing Controls for AI Workloads and Applications**; **Workshop: Build Your AI Agent**  | |English|
+|	MS Build 2025-2026 | **Retrieval-Augmented Generation (RAG) with .NET 8: A Full Local Resource Guide** Bruno Capuano | https://github.com/elbruno/Ollama-CSharp-Playground | English|
+
+## **Meetups**
+| Company | Topic | Link | Language |
+| --- |---|---|---|
+| Get Digital |**AI at the Service of Developers** | |English|
+| Future Processes LIVE |**An AI Agent in Your Pocket** | |Polish|
+| AI_devs LIVE  |**Context Engineering in Multi Agent Systems** | https://www.youtube.com/watch?v=3LbZP0sYmPw | Polish|
