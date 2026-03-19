@@ -2,6 +2,11 @@
 
 All materials regarding .NET and AI and PoC work
 
+This repository is dedicated to:
+- Investigating a broad range of Generative AI technologies — including coding assistants (Copilot, Claude Code), multi‑agent frameworks, large language models, MCP servers, and Azure AI platforms such as Azure AI Services, Azure AI Foundry, and Azure OpenAI — to design prototypes and demonstration environments.
+
+- Building AI‑driven solutions using Semantic Kernel, including direct LLM integration, autonomous agent orchestration, and Retrieval‑Augmented Generation (RAG) pipelines.
+
 ## **Trainings**
 | Conference | Topic | Link | Language |
 | --- |---|---|---|
