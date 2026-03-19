@@ -1,5 +1,7 @@
 # AI-Materials-and-PoCs
-![GitHub](https://img.shields.io/github/license/skowragn/AI-Materials-and-PoCs) ![Stars](https://img.shields.io/github/stars/skowragn/AI-Materials-and-PoCs)
+
+![GitHub](https://img.shields.io/github/license/skowragn/AI-Materials-and-PoCs)
+![Stars](https://img.shields.io/github/stars/skowragn/AI-Materials-and-PoCs)
 
 All materials from my AI trainings, meetups, and PoC work
 
