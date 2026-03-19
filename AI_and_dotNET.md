@@ -1,7 +1,7 @@
 # AI-dotNET-Materials-and-PoCs
 
-![GitHub](https://img.shields.io/github/license/skowragn/AI-Materials-and-PoCs)
-![Stars](https://img.shields.io/github/stars/skowragn/AI-Materials-and-PoCs)
+![GitHub](https://img.shields.io/github/license/skowragn/AI-Materials-and-PoCs?cacheSeconds=1)
+![Stars](https://img.shields.io/github/stars/skowragn/AI-Materials-and-PoCs?cacheSeconds=1)
 
 All materials regarding .NET and AI and PoC work
 
@@ -18,11 +18,11 @@ This repository is dedicated to:
 | | | https://github.com/github/awesome-copilot  |  |
 |   | | **OpenCode AI:** https://opencode.ai/  |  |
 |   | |  |  | |  
-|   | |  |  | |  
 |  **DevStyle**  | Tomasz Ducin: **AI as your juniors' team** | [![**How to use AI CLI tools in DevOps**](https://img.youtube.com/vi/RCaEXDe0pY4/0.jpg)](https://www.youtube.com/watch?v=RCaEXDe0pY4) | Polish |
 |   |  | https://bolt.new/ |  |
-|   | My application: | https://statuesque-entremet-7feb2c.netlify.app  |  |
+|   | My generated application in React: | https://statuesque-entremet-7feb2c.netlify.app  |  |
 |   | |  |  | |  
+|  **Microsoft**  | **Agents and MCP Orchestration with Langchain.js, LlamaIndex.TS, and Microsoft Agent Framework** | https://github.com/Azure-Samples/azure-ai-travel-agents  | English |
 |   | |  |  | |  
 |  **Microsoft**| Rasmus Wulff Jensen: **Microsoft Agent Framework Introduction - AI in C#** | [![**Microsoft Agent Framework Introduction - AI in C#**](https://img.youtube.com/vi/9RNF9GsB8PU/0.jpg)](https://www.youtube.com/watch?v=9RNF9GsB8PU&list=PLhGl0l5La4sYXjYOBv7h9l7x6qNuW34Cx&index=2) | English |
 | **Microsoft** | Rasmus Wulff Jensen: **90-min Getting Started Intro** | [![**90-min Getting Started Intro**](https://img.youtube.com/vi/HHy0-sXlmUY/0.jpg)](https://www.youtube.com/watch?v=HHy0-sXlmUY&list=PLhGl0l5La4sYXjYOBv7h9l7x6qNuW34Cx&index=3) | English |
