@@ -1,7 +1,7 @@
 # AI-dotNET-Materials-and-PoCs
 
-![GitHub](https://img.shields.io/github/license/skowragn/AI-Materials-and-PoCs)
-![Stars](https://img.shields.io/github/stars/skowragn/AI-Materials-and-PoCs)
+![GitHub](https://img.shields.io/github/license/skowragn/AI_and_dotNET)
+![Stars](https://img.shields.io/github/stars/skowragn/AI_and_dotNET)
 
 All materials regarding .NET and AI and PoC work
 
