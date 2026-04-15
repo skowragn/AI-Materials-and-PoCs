@@ -1,6 +1,6 @@
+```mermaid
 flowchart TD
 
-    %% NODES
     U[User / Client<br/>UI • API • Chat • Events]
 
     O[Aurora Orchestration Layer<br/>Planner • Router • Task Decomposition]
@@ -29,10 +29,12 @@ flowchart TD
 
     EX[Execution & Control Layer<br/>Agent Loop • Monitoring • Guardrails • Retry]
 
-    %% FLOWS
     U --> O
     O --> MAS
 
     MAS --> MEM
     MAS --> TOOL
-    MAS -->
+    MAS --> EX
+
+    EX --> MAS
+```
