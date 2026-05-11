@@ -13,6 +13,7 @@ This repository is dedicated to:
 ## **Trainings**
 | Conference | Topic | Link | Language |
 | --- |---|---|---|
+|  **MadeForCloud**  | **Multi-Agent AI on Azure - From Beginner to Pro with AI Foundry & Agent Service (No Code Demo)** | [![**Multi-Agent AI on Azure - From Beginner to Pro with AI Foundry & Agent Service (No Code Demo)**](https://img.youtube.com/vi/gKRb7mLd7RY/0.jpg)](https://www.youtube.com/watch?v=gKRb7mLd7RY) | English |
 |  **Azure Summit 2026**  | Piotr Strapp and Kajetan Duszynski: **How to use AI CLI tools in DevOps** | [![**How to use AI CLI tools in DevOps**](https://img.youtube.com/vi/zvK1JU2mnV8/0.jpg)](https://www.youtube.com/watch?v=zvK1JU2mnV8) | Polish |
 |   | | https://github.com/BetterDevClub/bdc-demo-cli  |  ||   
 | | | https://github.com/github/awesome-copilot  |  |
@@ -36,3 +37,8 @@ This repository is dedicated to:
 | **Microsoft** | Rasmus Wulff Jensen: **Persistent Conversations** | [![**Persistent Conversations**](https://img.youtube.com/vi/p5AvoMbgPtI/0.jpg)](https://www.youtube.com/watch?v=p5AvoMbgPtI&list=PLhGl0l5La4sYXjYOBv7h9l7x6qNuW34Cx&index=11) | English |
 | **Microsoft**  | Rasmus Wulff Jensen: **Basic Tool Calling** | [![**Basic Tool Calling**](https://img.youtube.com/vi/gJTodKpv8Ik/0.jpg)](https://www.youtube.com/watch?v=gJTodKpv8Ik&list=PLhGl0l5La4sYXjYOBv7h9l7x6qNuW34Cx&index=12) | English |
 | **Microsoft** | Rasmus Wulff Jensen: **Advanced Tool Calling** | [![**Advanced Tool Calling**](https://img.youtube.com/vi/dCtojrK8bKk/0.jpg)](https://www.youtube.com/watch?v=dCtojrK8bKk&list=PLhGl0l5La4sYXjYOBv7h9l7x6qNuW34Cx&index=13) | English |
+| **Microsoft** | Rasmus Wulff Jensen: **Microsoft Agent Framework vs Semantic Kernel vs Microsoft.Extensions.AI** | [![**Microsoft Agent Framework vs Semantic Kernel vs Microsoft.Extensions.AI**](https://img.youtube.com/vi/6ue9SmEtG9k/0.jpg)](https://www.youtube.com/watch?v=6ue9SmEtG9k) | English |
+
+
+
+
