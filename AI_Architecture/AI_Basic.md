@@ -1,4 +1,9 @@
 ## **AI Basic**
+[![GitHub](https://img.shields.io/badge/GitHub-skowragn-black?logo=github)](https://github.com/skowragn)
+![Updated](https://img.shields.io/badge/Updated-May_2026-blue)
+![License](https://img.shields.io/github/license/skowragn/AI-Materials-and-PoCs)
+![Stars](https://img.shields.io/github/stars/skowragn/AI-Materials-and-PoCs)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 | Concept | Acronym | Definition |
 | --- |---|---|
 | **LLM**	 |**Large Language Model** | A model trained on massive text datasets, capable of generating language, understanding context, and performing a wide range of text based tasks.|
