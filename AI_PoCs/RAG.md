@@ -10,3 +10,5 @@
 |Bruno Capuano: **Retrieval-Augmented Generation (RAG) with .NET 8: A Full Local Resource Guide** | [![**Retrieval-Augmented Generation (RAG) with .NET 8: A Full Local Resource Guide**](https://img.youtube.com/vi/VVZU-lbEegw/0.jpg)](https://www.youtube.com/watch?v=VVZU-lbEegw&list=PL48LTKkyz4n7oF-5TKzeAMrxOFTQPvkwg) | 
 | Microsoft | https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview?tabs=videos |
 |Microsoft **Build agents with knowledge, agentic RAG and Azure AI Search** | [![**Build agents with knowledge, agentic RAG and Azure AI Search**](https://img.youtube.com/vi/lW47o2ss3Yg/0.jpg)](https://www.youtube.com/watch?v=lW47o2ss3Yg) | 
+| Microsoft | https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept/retrieval-augmented-generation?view=doc-intel-4.0.0&utm_source=copilot.com |
+|  | <img width="551" height="283" alt="image" src="https://github.com/user-attachments/assets/24487e04-01e6-4b30-8ffd-44e7e334c52c" /> |
