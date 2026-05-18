@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="AI_RAG_Projects/Ollama_RAG.csproj" />
   <Project Path="Ollama_Agent_SematicKernel/Ollama_Agent_SematicKernel.csproj" Id="bbbd1604-17b9-4f5e-b2f1-17ea61fb8454" />
+  <Project Path="Ollama_Chatbot_with_RAG_API/Ollama_Chatbot_with_RAG_API.csproj" />
   <Project Path="Ollama_Sematic_Search/Ollama_Sematic_Search.csproj" />
 </Solution>
