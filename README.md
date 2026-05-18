@@ -19,4 +19,6 @@ This repository is dedicated to all AI materials.
 ## AI PoC - implementation
 | Artifact| File| Link |
 |--- | --- |--- |
-| |  | |
+|AI Solutions and Frameworks (Sematic Kernel, MS Agent Framework, Azure AI Foundry ) | **AI_Solutions_and_Frameworks.md** | https://github.com/skowragn/AI-Materials-and-PoCs/blob/main/AI_PoCs/AI_Solutions_and_Frameworks.md|
+|RAG | **RAG.md** | https://github.com/skowragn/AI-Materials-and-PoCs/blob/main/AI_PoCs/RAG.md|
+|Sematic Kernel | **Sematic_Kernel.md** | https://github.com/skowragn/AI-Materials-and-PoCs/blob/main/AI_PoCs/RAG.md|
