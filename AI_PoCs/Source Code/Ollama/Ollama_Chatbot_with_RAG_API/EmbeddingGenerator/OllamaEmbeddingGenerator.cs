@@ -3,7 +3,7 @@ using System.Text.Json;
 
 namespace Ollama_Chatbot_with_RAG_API.EmbeddingGenerator;
 
-public class OllamaEmbeddingGenerator(Uri ollamaUrl, string modelId = "mistral", IHttpClientFactory httpClientFactory) : IEmbeddingGenerator
+public class OllamaEmbeddingGenerator(IHttpClientFactory httpClientFactory, Uri ollamaUrl, string modelId = "mistral") : IEmbeddingGenerator
 {
     private readonly Uri _ollamaUrl = ollamaUrl;
     private readonly string _modelId = modelId;

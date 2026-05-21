@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Azure_AI_Foundry/">
+    <Project Path="AI_Foundry/AI_Foundry_Agent_SemanticKernel/AI_Foundry_Agent_SemanticKernel.csproj" />
+  </Folder>
+  <Folder Name="/Ollama/">
+    <Project Path="Ollama/Ollama_Agent_SematicKernel/Ollama_Agent_SematicKernel.csproj" />
+    <Project Path="Ollama/Ollama_Chatbot_with_RAG_API/Ollama_Chatbot_with_RAG_API.csproj" />
+    <Project Path="Ollama/Ollama_RAG/Ollama_RAG.csproj" />
+    <Project Path="Ollama/Ollama_Sematic_Search/Ollama_Sematic_Search.csproj" />
+  </Folder>
+</Solution>

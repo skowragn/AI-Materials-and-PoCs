@@ -5,7 +5,7 @@ using System.Text.Json;
 
 namespace Ollama_Chatbot_with_RAG_API.Services;
 
-public class RagService(TextRepository retriever, Uri ollamaUrl, string modelId = "mistral", IHttpClientFactory httpClientFactory)
+public class RagService(IHttpClientFactory httpClientFactory, TextRepository retriever, Uri ollamaUrl, string modelId = "mistral")
 {
     private readonly TextRepository _textRepository = retriever;
     private readonly Uri _ollamaUrl = ollamaUrl;

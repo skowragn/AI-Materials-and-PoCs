@@ -23,11 +23,11 @@ public class Program
             throw new InvalidOperationException("Required configuration settings are missing.");
         }
 
-        builder.Services.AddSingleton<IEmbeddingGenerator>(sp => new OllamaEmbeddingGenerator(new Uri("http://localhost:11434"), "mistral", sp.GetRequiredService<IHttpClientFactory>()));
+        builder.Services.AddSingleton<IEmbeddingGenerator>(sp => new OllamaEmbeddingGenerator(sp.GetRequiredService<IHttpClientFactory>(), new Uri("http://localhost:11434"), "mistral"));
 
         builder.Services.AddSingleton(sp => new TextRepository(connectionString, sp.GetRequiredService<IEmbeddingGenerator>()));
 
-        builder.Services.AddSingleton(sp => new RagService(sp.GetRequiredService<TextRepository>(), new Uri("http://localhost:11434"), "mistral", sp.GetRequiredService<IHttpClientFactory>()));
+        builder.Services.AddSingleton(sp => new RagService(sp.GetRequiredService<IHttpClientFactory>(), sp.GetRequiredService<TextRepository>(), new Uri("http://localhost:11434"), "mistral"));
 
         var app = builder.Build();
 

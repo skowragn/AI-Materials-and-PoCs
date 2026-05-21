@@ -1,5 +1,6 @@
 ﻿using Ollama_Chatbot_with_RAG_API.Repositories;
 using Ollama_Chatbot_with_RAG_API.Services;
+using Ollama_Chatbot_with_RAG_API.Models;
 
 namespace Ollama_Chatbot_with_RAG_API.Endpoints;
 
