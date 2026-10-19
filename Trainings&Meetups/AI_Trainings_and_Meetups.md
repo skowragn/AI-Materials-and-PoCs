@@ -25,6 +25,13 @@ This repository is dedicated to:
 ## **Trainings**
 | Company | Topic | Link| Language |
 | --- |---|---|---|
+| Microsoft |**MS-GH-600T00: Developing in Agentic AI Systems** | https://learn.microsoft.com/en-us/training/courses/gh-600t00 |English|
+| Microsoft |**MS-AB-100T00: Architecting Agentic AI Business Solutions** | https://learn.microsoft.com/en-us/training/courses/ab-100t00 |English|
+| Microsoft |**MS-AI-200T00: Develop AI Cloud Solutions on Azure** | https://learn.microsoft.com/en-us/training/courses/ai-200t00 |English|
+| Microsoft&nbsp;&&nbsp;Technofocus<br>| **Agentic&nbsp;AI&nbsp;Hackathon&nbsp;(Oct&nbsp;2026)** | <ul><li>Project 1: **Enterprise AI Workload & Governance (Microsoft Foundry)**: Provisioned unified Foundry environments from scratch; successfully deployed, governed, and programmatically consumed GPT-5.4 and gpt-image-1-mini models via Foundry and OpenAI SDKs inside Jupyter notebooks.</li></ul>  | English|
+| |  | <ul><li>Project 2: **Grounded Knowledge Orchestration (Foundry IQ)**: Built and architected an enterprise-grade Grounded Knowledge Agent delivering high-precision answers across distributed corporate data silos including Azure Blob Storage, SharePoint, and Web sources. </li></ul> | English|
+| |  | <ul><li>Project 3: **Multi-Tool Agentic Architecture & MCP Integration**: Designed and engineered a multi-tool autonomous agent integrating Weather APIs and Microsoft Learn utilizing the Model Context Protocol (MCP); enforced strict Safety Guardrails and content filters at the platform gateway level.</li></ul> | English|
+| |  | <ul><li>Project 4: **Multimodal Retrieval-Augmented Generation (RAG)**: Architected and deployed a high-scale Multimodal RAG Pipeline natively combining Azure AI Search and Microsoft Foundry for complex semantic asset discovery. </li></ul> | English|
 | O'Reilly |**AI Codecon: Coding for the Agentic World** | https://learning.oreilly.com/live-events/ai-codecon-coding-for-the-agentic-world/0642572207748/0642572207731/#liveEventSchedule |English|
 | || •	**Agentic interfaces:** Moving beyond chat UX to sophisticated agent interactions ||
 | || •	**Tool-to-tool workflows:** How agents chain across environments to complete complex tasks ||
@@ -44,6 +51,7 @@ This repository is dedicated to:
 ## **Meetups**
 | Company | Topic | Link | Language | 
 | --- |---|---|---|
+| Google Developer Group (GDG) Krakow |**DevFest 2026** | https://devfestkrakow.pl/#agenda |English|
 | Sii | Get Digital 2025 | **AI at the Service of Developers**| |
 |  |**Effective Use of LLMs by Developers**| [![**Tomasz Durcin's lecture**](https://img.youtube.com/vi/SlaRbOlAFc0/0.jpg)]([https://www.youtube.com/playlist?list=PLQXpRIbR-9ftn3u7hFUjKlZfIzEd5PX3j#msdynmkt_trackingcontext=971a9c7b-c3f1-415f-b445-dec23d8d0300](https://www.youtube.com/watch?v=SlaRbOlAFc0&list=PLQXpRIbR-9ftn3u7hFUjKlZfIzEd5PX3j&index=2&t=1199s)) | Polish |
 |  |**How to Hack AI and Get Answers Despite the Model’s Refusal**| [![**Mateusza Chrobok's lecture**](https://img.youtube.com/vi/PgQ2j3S9QQE/0.jpg)](https://www.youtube.com/watch?v=PgQ2j3S9QQE&list=PLQXpRIbR-9ftn3u7hFUjKlZfIzEd5PX3j&index=3)| Polish |
